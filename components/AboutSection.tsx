@@ -1,7 +1,7 @@
 const skillCategories = [
   {
     category: 'Languages',
-    skills: ['Python', 'TypeScript/JavaScript', 'Go', 'Node.js', 'SQL', 'Java'],
+    skills: ['Python', 'TypeScript/JavaScript', 'Go', 'Node.js', 'SQL', 'Java', 'FastAPI'],
   },
   {
     category: 'Artificial Intelligence',
@@ -13,7 +13,7 @@ const skillCategories = [
   },
   {
     category: 'Data & Streaming',
-    skills: ['Airflow', 'Apache Kafka', 'Redis'],
+    skills: ['Airflow', 'Apache Kafka', 'Redis', 'Temporal'],
   },
   {
     category: 'Infrastructure & DevOps/MLOps',
